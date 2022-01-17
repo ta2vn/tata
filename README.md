@@ -16,3 +16,6 @@ https://www.youtube.com/playlist?list=PLBe-LC2dsyhVIY_mlmjLzFUsmRW7GWOPl
 + PdfSharp
 
 Write Native c# .net framework 2.0
+
+# Du an
+https://ta2.vn/tata-project/
